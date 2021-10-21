@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/hw_2.dir/main.cpp.o CMakeFiles/hw_2.dir/container.cpp.o CMakeFiles/hw_2.dir/vehicle.cpp.o CMakeFiles/hw_2.dir/lorry.cpp.o CMakeFiles/hw_2.dir/bus.cpp.o CMakeFiles/hw_2.dir/motorcar.cpp.o -o hw_2 

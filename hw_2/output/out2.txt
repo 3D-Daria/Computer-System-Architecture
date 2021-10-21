@@ -1,0 +1,35 @@
+Container contains 15 elements.
+1. It is a motorcar: max speed = 16, tank capacity = 52 litres, fuel per 100km = 71.170000; max distance = 73.064493
+2. It is a lorry: lift capacity = 93, tank capacity = 2 litres, fuel per 100km = 8.910000; max distance = 22.446689
+3. It is a motorcar: max speed = 90, tank capacity = 76 litres, fuel per 100km = 76.300000; max distance = 99.606815
+4. It is a motorcar: max speed = 53, tank capacity = 11 litres, fuel per 100km = 86.100000; max distance = 12.775842
+5. It is a motorcar: max speed = 52, tank capacity = 6 litres, fuel per 100km = 5.100000; max distance = 117.647059
+6. It is a motorcar: max speed = 79, tank capacity = 42 litres, fuel per 100km = 61.710000; max distance = 68.060282
+7. It is a lorry: lift capacity = 6, tank capacity = 21 litres, fuel per 100km = 56.260000; max distance = 37.326697
+8. It is a motorcar: max speed = 4, tank capacity = 90 litres, fuel per 100km = 7.390000; max distance = 1217.861976
+9. It is a lorry: lift capacity = 21, tank capacity = 90 litres, fuel per 100km = 68.200000; max distance = 131.964809
+10. It is a motorcar: max speed = 49, tank capacity = 27 litres, fuel per 100km = 97.030000; max distance = 27.826445
+11. It is a lorry: lift capacity = 79, tank capacity = 7 litres, fuel per 100km = 26.080000; max distance = 26.840491
+12. It is a motorcar: max speed = 4, tank capacity = 31 litres, fuel per 100km = 5.010000; max distance = 618.762475
+13. It is a motorcar: max speed = 27, tank capacity = 94 litres, fuel per 100km = 40.520000; max distance = 231.984205
+14. It is a bus: passenger capacity = 52, tank capacity = 27 litres, fuel per 100km = 39.330000; max distance = 68.649886
+15. It is a lorry: lift capacity = 62, tank capacity = 88 litres, fuel per 100km = 4.130000; max distance = 2130.750605
+
+
+
+After bubble sort:
+1. It is a motorcar: max speed = 53, tank capacity = 11 litres, fuel per 100km = 86.100000; max distance = 12.775842
+2. It is a lorry: lift capacity = 93, tank capacity = 2 litres, fuel per 100km = 8.910000; max distance = 22.446689
+3. It is a lorry: lift capacity = 79, tank capacity = 7 litres, fuel per 100km = 26.080000; max distance = 26.840491
+4. It is a motorcar: max speed = 49, tank capacity = 27 litres, fuel per 100km = 97.030000; max distance = 27.826445
+5. It is a lorry: lift capacity = 6, tank capacity = 21 litres, fuel per 100km = 56.260000; max distance = 37.326697
+6. It is a motorcar: max speed = 79, tank capacity = 42 litres, fuel per 100km = 61.710000; max distance = 68.060282
+7. It is a bus: passenger capacity = 52, tank capacity = 27 litres, fuel per 100km = 39.330000; max distance = 68.649886
+8. It is a motorcar: max speed = 16, tank capacity = 52 litres, fuel per 100km = 71.170000; max distance = 73.064493
+9. It is a motorcar: max speed = 90, tank capacity = 76 litres, fuel per 100km = 76.300000; max distance = 99.606815
+10. It is a motorcar: max speed = 52, tank capacity = 6 litres, fuel per 100km = 5.100000; max distance = 117.647059
+11. It is a lorry: lift capacity = 21, tank capacity = 90 litres, fuel per 100km = 68.200000; max distance = 131.964809
+12. It is a motorcar: max speed = 27, tank capacity = 94 litres, fuel per 100km = 40.520000; max distance = 231.984205
+13. It is a motorcar: max speed = 4, tank capacity = 31 litres, fuel per 100km = 5.010000; max distance = 618.762475
+14. It is a motorcar: max speed = 4, tank capacity = 90 litres, fuel per 100km = 7.390000; max distance = 1217.861976
+15. It is a lorry: lift capacity = 62, tank capacity = 88 litres, fuel per 100km = 4.130000; max distance = 2130.750605
