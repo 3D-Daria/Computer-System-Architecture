@@ -1,0 +1,25 @@
+There are 10 vehicles in the container
+Lorry: lift capacity = 12; tank capacity = 12 litres; fuel per 100km = 1.0; max distance = 1200.0
+Bus: passenger capacity = 11; tank capacity = 3 litres; fuel per 100km = 2.5; max distance = 120.0
+Motorcar: max speed = 3; tank capacity = 2 litres; fuel per 100km = 0.5; max distance = 400.0
+Motorcar: max speed = 4; tank capacity = 23 litres; fuel per 100km = 4.5; max distance = 511.1111111111111
+Motorcar: max speed = 5; tank capacity = 3 litres; fuel per 100km = 5.5555; max distance = 54.00054000540005
+Bus: passenger capacity = 6; tank capacity = 4 litres; fuel per 100km = 3.333; max distance = 120.01200120012001
+Bus: passenger capacity = 7; tank capacity = 77 litres; fuel per 100km = 2.234; max distance = 3446.7323187108327
+Lorry: lift capacity = 8; tank capacity = 21 litres; fuel per 100km = 22.65; max distance = 92.71523178807948
+Lorry: lift capacity = 9; tank capacity = 1 litres; fuel per 100km = 1.0; max distance = 100.0
+Lorry: lift capacity = 1; tank capacity = 2 litres; fuel per 100km = 2.0; max distance = 100.0
+
+
+
+After Bubble sort:
+Motorcar: max speed = 5; tank capacity = 3 litres; fuel per 100km = 5.5555; max distance = 54.00054000540005
+Lorry: lift capacity = 8; tank capacity = 21 litres; fuel per 100km = 22.65; max distance = 92.71523178807948
+Lorry: lift capacity = 9; tank capacity = 1 litres; fuel per 100km = 1.0; max distance = 100.0
+Lorry: lift capacity = 1; tank capacity = 2 litres; fuel per 100km = 2.0; max distance = 100.0
+Bus: passenger capacity = 11; tank capacity = 3 litres; fuel per 100km = 2.5; max distance = 120.0
+Bus: passenger capacity = 6; tank capacity = 4 litres; fuel per 100km = 3.333; max distance = 120.01200120012001
+Motorcar: max speed = 3; tank capacity = 2 litres; fuel per 100km = 0.5; max distance = 400.0
+Motorcar: max speed = 4; tank capacity = 23 litres; fuel per 100km = 4.5; max distance = 511.1111111111111
+Lorry: lift capacity = 12; tank capacity = 12 litres; fuel per 100km = 1.0; max distance = 1200.0
+Bus: passenger capacity = 7; tank capacity = 77 litres; fuel per 100km = 2.234; max distance = 3446.7323187108327

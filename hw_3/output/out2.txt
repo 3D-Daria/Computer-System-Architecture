@@ -1,0 +1,5 @@
+There are 0 vehicles in the container
+
+
+
+After Bubble sort:
